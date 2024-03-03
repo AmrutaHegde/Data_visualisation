@@ -1,5 +1,5 @@
 # Data_visualisation
-Which year has more rain in June in the southern region??
+Which year has more rain in June in the southern region?
 
 Find the top 5 dry years in south, north-east, north-west and central India.
 
